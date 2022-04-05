@@ -9,7 +9,7 @@
             "required": true
 		}
 	},
-	"website": "https://github.com/Chasing66/peer2profit",
-	"repository": "https://github.com/Chasing66/peer2profit-heroku",
+	"website": "https://github.com/bnsave100/peer2profit",
+	"repository": "https://github.com/bnsave100/peer2profit-heroku",
 	"stack": "container"
 }
