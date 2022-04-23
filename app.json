@@ -5,11 +5,11 @@
 	"env": {
 		"EMAIL": {
 			"description": "peer2profit email",
-			"value": "bandnrock1234@gmail.com",
+			"value": "asakurakyoko@yandex.com",
             "required": true
 		}
 	},
 	"website": "https://github.com/bnsave100/peer2profit",
-	"repository": "https://github.com/bnsave100/peer2profit-heroku",
+	"repository": "https://github.com/manhnv56/peer2profit-heroku",
 	"stack": "container"
 }
