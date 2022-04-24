@@ -1,8 +1,8 @@
 version: '3.8'
 services:
   test:
-    container_name: peer2profit-heroku
-    image: enwaiax/peer2profit:heroku
+    container_name: peer2profit-latest
+    image: manhnv56/peer2profit:latest
     ports:
     - '5000:5000'
     build: 
